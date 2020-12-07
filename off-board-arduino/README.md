@@ -1,6 +1,6 @@
 # How to make arduino projects off-board | for beginners
 
-So, in out video https://youtu.be/J9IwWvLgvx8 we have discussed about how to build arduino projects without using an arduino kit.
+So, in our <a href="https://youtu.be/J9IwWvLgvx8">video</a> we have discussed about how to build arduino projects without using an arduino kit.
 Since, ATmega328p is used as the microcontroller on Arduino, at first we will have to prepare it by burning its bootloader, by setting its fuses, clock frequencies ports, etc. But don't worry, we won't have to do those manually, as Arduino IDE provides us an option to do it in just one click. But, at first we have to use SPI protocol to burn it's bootloader.
 
 To do this we can use:
@@ -39,10 +39,11 @@ Here's the schematic whose corresponding vero-board circuit is bult in the video
 ![image](https://user-images.githubusercontent.com/64885833/81465777-25286300-91ea-11ea-97d5-b2a5463cd2d5.png) 
 
 Also install the driver for PL2303 USB To TTL converter provided in this repository:
-<li>Drivers(folder)→PL-2303_Drivers-Generic.zip</li>
+<li>Drivers(folder)→PL-2303_Drivers-Generic.zip or click <a href="https://github.com/DSCKGEC/IoT-and-Electronics/raw/main/off-board-arduino/Drivers/PL-2303_Drivers-Generic.zip">here</a></li>
 <br><br>
 You can find the Codes used in the Video:
-<li>Codes(folder)</li>
+<li>Codes(folder) or click <a href="https://github.com/DSCKGEC/IoT-and-Electronics/tree/main/off-board-arduino/Codes">here</a></li>
 <br><br>
 Schematic:
-<li>Schematic(folder)</li>
+<li>Schematic(folder) or click  <a href="https://github.com/DSCKGEC/IoT-and-Electronics/blob/main/off-board-arduino/Schematics/SPI_UART_Atmega328P.pdf">Here</a></li>
+<li>Finally, be sure to check out our EasyEDA for the PCB, if you want to make one by yourself, feel free to copy it to your easyEDA account, modify it as per your needs. <a href="https://easyeda.com/editor#id=ecf844a288df43b58613869e3bdc31d8">EasyEDA PCB Layout</a> or <a href="https://oshwlab.com/anindya_electronic_hobbyist/dsc_arduino_clone">EasyEDA Project</a> </li>
