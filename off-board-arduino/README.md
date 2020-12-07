@@ -8,5 +8,5 @@ To do this we can use:
 1. Using Arduino as ISP: Here we will use another Arduino Uno, or any other arduino, to progream the target IC using SPI.
 
 2. Using an SPI Programmer like USBasp: Here we will show how to use USBasp, which is a popular as well as very in-expensive open source prorogrammer.
-<img src="off-board-arduino\Arduino SPI_bb.png">
+<img src="Arduino SPI_bb.png"/>
 After we have burned the bootloader of the target microcontroller, we can upload it using the same SPI protocol, or we can use UART programmer that Arduinos generally use.
