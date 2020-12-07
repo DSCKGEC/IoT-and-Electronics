@@ -39,4 +39,11 @@ Here's the schematic whose corresponding vero-board circuit is bult in the video
 ![image](https://user-images.githubusercontent.com/64885833/81465777-25286300-91ea-11ea-97d5-b2a5463cd2d5.png) 
 
 Also install the driver for PL2303 USB To TTL converter provided in this repository:
-<li>Drivers→PL-2303_Drivers-Generic.zip</li>
+<li>Drivers(folder)→PL-2303_Drivers-Generic.zip</li>
+
+
+You can find the Codes used in the Video:
+<li>Codes(folder)</li>
+
+Schematic:
+<li>Schematic(folder)</li>
