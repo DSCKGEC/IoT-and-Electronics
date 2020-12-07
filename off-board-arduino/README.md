@@ -15,3 +15,22 @@ Here is a schematic explaining the connections for SPI with USBasp.
 <img src = https://user-images.githubusercontent.com/55695557/101322075-69690800-388c-11eb-88ba-88ce9600b7ec.png width = 60%/>
 
 After we have burned the bootloader of the target microcontroller, we can upload it using the same SPI protocol, or we can use UART programmer that Arduinos generally use.
+
+In the UART programming section, here are the prerequisites given below:
+
+### Libraries Required
+1.Timer.h<br>
+2.LedControl.h<br>
+3.Ultrasonic.h<br>
+![image](https://user-images.githubusercontent.com/56502015/101317676-f4460480-3884-11eb-84ad-8b1ef3eb0573.png)
+
+(Install these libraries from this Repository)
+
+### Installing libraries
+<ol>
+  <li>After downloading the repository→Extract the library zip files</li>
+  <li>Go to Sketch→Include library→Add .ZIP Library</li>
+  <li>Select the the library.zip files</li>
+  </ol>
+  
+![image](https://user-images.githubusercontent.com/64885833/81465777-25286300-91ea-11ea-97d5-b2a5463cd2d5.png) 
