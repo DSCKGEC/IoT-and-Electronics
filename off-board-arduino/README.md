@@ -4,8 +4,7 @@
 ## Libraries Required
 1.Timer.h<br>
 2.LedControl.h<br>
-
-![image](https://user-images.githubusercontent.com/64885833/81465787-4c7f3000-91ea-11ea-9f9c-bef55f32cf9c.png)
+3.Ultrasonic.h<br>
 
 (Install these libraries from this Repository)
 
