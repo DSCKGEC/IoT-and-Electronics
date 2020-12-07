@@ -46,4 +46,4 @@ You can find the Codes used in the Video:
 <br><br>
 Schematic:
 <li><a href="https://github.com/DSCKGEC/IoT-and-Electronics/blob/main/off-board-arduino/Schematics/SPI_UART_Atmega328P.pdf">Schematic(folder)</a></li>
-<li>Finally, be sure to check out our EasyEDA for the PCB, if you want to make one by yourself, feel free to copy it to your easyEDA account, modify it as per your needs. <a href="https://easyeda.com/editor#id=ecf844a288df43b58613869e3bdc31d8">EasyEDA PCB Layout</a> or <a href="https://oshwlab.com/anindya_electronic_hobbyist/dsc_arduino_clone">EasyEDA Project</a> </li>
+<li>Finally, be sure to check out our EasyEDA for the PCB, if you want to make one by yourself, feel free to copy it to your easyEDA account, modify it as per your needs. <a href="https://easyeda.com/editor#id=72610bcfc30b4634a111c1cdf9bfca46|7b4d203083e940adac1f1cd1635dc420">EasyEDA PCB Layout</a> or <a href="https://oshwlab.com/anindya_electronic_hobbyist/dsc_arduino_clone">EasyEDA Project</a> </li>
