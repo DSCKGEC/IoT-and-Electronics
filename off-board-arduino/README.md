@@ -39,11 +39,11 @@ Here's the schematic whose corresponding vero-board circuit is bult in the video
 ![image](https://user-images.githubusercontent.com/64885833/81465777-25286300-91ea-11ea-97d5-b2a5463cd2d5.png) 
 
 Also install the driver for PL2303 USB To TTL converter provided in this repository:
-<li>Drivers(folder)→PL-2303_Drivers-Generic.zip or click <a href="https://github.com/DSCKGEC/IoT-and-Electronics/raw/main/off-board-arduino/Drivers/PL-2303_Drivers-Generic.zip">here</a></li>
+<li>Drivers(folder)→<a href="https://github.com/DSCKGEC/IoT-and-Electronics/raw/main/off-board-arduino/Drivers/PL-2303_Drivers-Generic.zip">PL-2303_Drivers-Generic.zip</a></li>
 <br><br>
 You can find the Codes used in the Video:
-<li>Codes(folder) or click <a href="https://github.com/DSCKGEC/IoT-and-Electronics/tree/main/off-board-arduino/Codes">here</a></li>
+<li><a href="https://github.com/DSCKGEC/IoT-and-Electronics/tree/main/off-board-arduino/Codes">Codes(folder)</a></li>
 <br><br>
 Schematic:
-<li>Schematic(folder) or click  <a href="https://github.com/DSCKGEC/IoT-and-Electronics/blob/main/off-board-arduino/Schematics/SPI_UART_Atmega328P.pdf">Here</a></li>
+<li><a href="https://github.com/DSCKGEC/IoT-and-Electronics/blob/main/off-board-arduino/Schematics/SPI_UART_Atmega328P.pdf">Schematic(folder)</a></li>
 <li>Finally, be sure to check out our EasyEDA for the PCB, if you want to make one by yourself, feel free to copy it to your easyEDA account, modify it as per your needs. <a href="https://easyeda.com/editor#id=ecf844a288df43b58613869e3bdc31d8">EasyEDA PCB Layout</a> or <a href="https://oshwlab.com/anindya_electronic_hobbyist/dsc_arduino_clone">EasyEDA Project</a> </li>
