@@ -7,7 +7,7 @@ To do this we can use:
 
 1. Using Arduino as ISP: Here we will use another Arduino Uno, or any other arduino, to progream the target IC using SPI.
 
-Here is a schematic explaining the connections for SPI with Arduino as ISP, which is a very simple solution if you have a spare Arduino in hand. Please note that the indicator LEDs are just optional, to indicate the programmer status.
+Here is a schematic explaining the connections for SPI with Arduino as ISP, which is a very simple solution if you have a spare Arduino in hand. Please note that the indicator LEDs are optional, just to indicate the programmer status.
 <img src = https://user-images.githubusercontent.com/55695557/101323304-7a1a7d80-388e-11eb-91da-76c1df12c4b1.png width = 80%/>
 
 2. Using an SPI Programmer like USBasp: Here we will show how to use USBasp, which is a popular as well as very in-expensive open source SPI programmer.
