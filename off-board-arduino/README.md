@@ -19,7 +19,7 @@ After we have burned the bootloader of the target microcontroller, we can upload
 In the UART programming section, here are the prerequisites given below:
 
 Here's the schematic whose corresponding vero-board circuit is bult in the video:
-<img src=https://user-images.githubusercontent.com/55695557/101391195-0017e200-38ea-11eb-93ba-f96fd553b66b.png>
+<img src=https://user-images.githubusercontent.com/55695557/101391195-0017e200-38ea-11eb-93ba-f96fd553b66b.png  width = 60%/>
 
 ### Libraries Required
 1.Timer.h<br>
