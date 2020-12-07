@@ -18,6 +18,9 @@ After we have burned the bootloader of the target microcontroller, we can upload
 
 In the UART programming section, here are the prerequisites given below:
 
+Here's the schematic whose corresponding vero-board circuit is bult in the video:
+<img src=https://user-images.githubusercontent.com/56502015/101329515-7a6b4680-3897-11eb-8ea4-eb85e401d98c.png>
+
 ### Libraries Required
 1.Timer.h<br>
 2.LedControl.h<br>
@@ -34,3 +37,12 @@ In the UART programming section, here are the prerequisites given below:
   </ol>
   
 ![image](https://user-images.githubusercontent.com/64885833/81465777-25286300-91ea-11ea-97d5-b2a5463cd2d5.png) 
+
+Also install the driver for PL2303 USB To TTL converter provided in this repository:
+<li>Drivers(folder)→PL-2303_Drivers-Generic.zip</li>
+<br><br>
+You can find the Codes used in the Video:
+<li>Codes(folder)</li>
+<br><br>
+Schematic:
+<li>Schematic(folder)</li>
