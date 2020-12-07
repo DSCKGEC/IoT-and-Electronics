@@ -1,7 +1,7 @@
-<style>
+<head><style>
 img[alt=Arduino_SPI_bb] { width: 80%; display: flex;}
 img[alt=USBasp_bb] { width: 60%; display: flex;}
-</style>
+</style></head>
 
 # How to make arduino projects off-board | for beginners
 
