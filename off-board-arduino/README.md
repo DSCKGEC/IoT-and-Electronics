@@ -1,7 +1,12 @@
 # How to make arduino projects off-board | for beginners
 
 So, in our <a href="https://youtu.be/J9IwWvLgvx8">video</a> we have discussed about how to build arduino projects without using an arduino kit.
-Since, ATmega328p is used as the microcontroller on Arduino, at first we will have to prepare it by burning its bootloader, by setting its fuses, clock frequencies ports, etc. But don't worry, we won't have to do those manually, as Arduino IDE provides us an option to do it in just one click. But, at first we have to use SPI protocol to burn it's bootloader.
+Since, ATmega328p is used as the microcontroller on Arduino, at first we will have to prepare it by burning its bootloader, by setting its fuses, clock frequencies ports, etc. But don't worry, we won't have to do those manually, as Arduino IDE provides us an option to do it in just one click. But, at first we have to use SPI protocol to burn it's bootloader.<br>
+It is recommended to read this <a href=https://www.clko.ml/PuyfNK>documentation/datasheet</a> for ATmega328p given in this pdf: https://www.clko.ml/PuyfNK <br>
+However it is suggested for you to read only the specific part of document you need to know at the moment and not the whole document at a time, because it's very elaborate and it's not required to read all of it. Reference: see page number: 65, where all the SPI pins are listed in a tabular form(Look for SCK,MISO and MOSI).<br>
+
+Here is a detailed Pin-Out diagram of the 28pin ATmega ICs (which includes ATmega328p as well).<br>
+<img src = https://camo.githubusercontent.com/21dd57865a9dfc93318d86dfb85310305b62a0dd0e41df6e274aa91721986828/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067 width = 80%/>
 
 To do this we can use:
 
